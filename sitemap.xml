@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">	
+<url>
+<loc>http://hccz1404.top</loc>
+<priority>1.00</priority>
+<lastmod>2017-07-23</lastmod>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc>http://hccz1404.top/videos.html</loc>
+<priority>0.5</priority>
+<lastmod>2017-07-23</lastmod>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc>http://hccz1404.top/about.html</loc>
+<priority>0.5</priority>
+<lastmod>2017-07-23</lastmod>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc>http://hccz1404.top/index.html</loc>
+<priority>0.5</priority>
+<lastmod>2017-07-23</lastmod>
+<changefreq>weekly</changefreq>
+</url>
+<url>
+<loc>http://hccz1404.top/courses.html</loc>
+<priority>0.5</priority>
+<lastmod>2017-07-23</lastmod>
+<changefreq>weekly</changefreq>
+</url>
+</urlset>
+
